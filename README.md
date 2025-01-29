@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HMandys
-- 👀 I’m interested in HFS
+- 👀 I am a developer from the Mineland team
 - 🌱 I’m currently learning python
 
 
