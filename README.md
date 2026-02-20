@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HMandys
-- 👀 I am a developer from the FantasyDimension team
-- 👨‍💻 I am developing ***FantasyDimensionPVE*** Project
+- 👀 I am a developer from the HM's Laboratory team
+- 👨‍💻 I am developing ***HFS BOT*** Project
 - 🌱 I’m currently learning python
 
 
